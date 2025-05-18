@@ -3,6 +3,9 @@ import SisfoSchool from '../assets/sisfoSchool.png'
 import whatsappBot from '../assets/whatsappBot.png'
 import SimRs from '../assets/simrs.png'
 import QuranPlayer from '../assets/quranPlayer.png'
+import HRAI from '../assets/hr-ai.png'
+import IslamicApp from '../assets/islamic-app.png'
+import SisfoCampus from '../assets/sisfo-campus.png'
 
 import HTML from '../assets/html.png'
 import CSS from '../assets/css.png'
@@ -17,11 +20,11 @@ import Boostrap from '../assets/boostrap.png'
 export const EXPERIENCE = [
     {
         id:1,
-        dateWork: 'Mei 2023 - Present',   
+        dateWork: 'Mei 2023 - Maret 2025',   
         type:'(Paruhwaktu)',     
         company: 'PT. Ragdalion Revolusi Industri',
         position: 'Frontend Developer',
-        desc: 'Create new features and Slicing design to code'
+        desc: 'Create new features, fix bugs, implement Slicing design to code, focus on writing reusable code and collaborating effectively with the team.'
     },
     {
         id:2,
@@ -130,6 +133,36 @@ export const PORTFOLIOS = [
         link: {
             demo: 'https://quranplayer-media.netlify.app',
             github: 'https://github.com/sandestareza/Quran-Player'
+        }
+    },
+    {
+        id: 6,
+        title: 'HR AI',
+        desc: 'HR AI is a chat bot that has been integrated with ChatGPT built using Next Js and Typescript technology',
+        img: HRAI,
+        link: {
+            demo: 'https://hrai.netlify.app/',
+            github: 'https://github.com/sandestareza/HR-AI'
+        }
+    },
+    {
+        id: 7,
+        title: 'Islamic App',
+        desc: 'Islamic App is a Islamic media application built using Next Js and Typescript technology',
+        img: IslamicApp,
+        link: {
+            demo: 'https://islamic-app-ashen.vercel.app/',
+            github: 'https://github.com/sandestareza/islamic-app'
+        }
+    },
+    {
+        id: 8,
+        title: 'Sisfo Campus',
+        desc: 'A university administration system integrated with the national Feeder system, developed using Laravel and optimized with stored procedures for efficient data processing.',
+        img: SisfoCampus,
+        link: {
+            demo: 'https://qa.sisfocampus.id/',
+            github: null
         }
     },
 ]

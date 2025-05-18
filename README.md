@@ -4,7 +4,7 @@ My website
 <h1 align="center">Hi 👋, I'm Sandesta Reza</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [http://sandestareza.my.id]([http://sandestareza.my.id](https://sandestareza-portfolio.netlify.app))
+- 👨‍💻 All of my projects are available at [https://sandestareza-portfolio.netlify.app](https://sandestareza-portfolio.netlify.app)
 
 - 📫 How to reach me **sandesta24@gmail.com**
 
